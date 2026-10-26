@@ -4,9 +4,10 @@ Add cron tab like below
 
 ```
 crontab -e
+```
+And then add like below
 
-and then add like below
-
+```
 * * * * * echo Hello World
 
 ```
